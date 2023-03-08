@@ -18,7 +18,8 @@ Hvis du vil legge til ord selv, eller endre på uttalelse, er dette fonemer du k
 | æ | ae |
 | ø | er |
 | å | ao |
-| ei (som i v*ei*), æi | ae y |
+| ei | ey |
+| æi | ae y |
 | ai | ay, aa y |
 | øy | er iy (to noter), er y (én note) |
 | oi | oy, ao y |
