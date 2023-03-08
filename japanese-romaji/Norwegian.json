@@ -2397,6 +2397,10 @@
       "p": "d aa g"
     },
     {
+      "w": "dagen",
+      "p": "d aa g eh n"
+    },
+    {
       "w": "dager",
       "p": "d aa g eh dx"
     },
@@ -2625,6 +2629,10 @@
       "p": "d ae dx m eh"
     },
     {
+      "w": "det",
+      "p": "d eh"
+    },
+    {
       "w": "di",
       "p": "d iy"
     },
@@ -2822,7 +2830,7 @@
     },
     {
       "w": "dra",
-      "p": "d dx a"
+      "p": "d dx aa"
     },
     {
       "w": "drag",
@@ -2867,6 +2875,10 @@
     {
       "w": "draperi",
       "p": "d dx aa p eh dx iy"
+    },
+    {
+      "w": "drar",
+      "p": "d dx aa dx"
     },
     {
       "w": "drastisk",
@@ -3901,6 +3913,10 @@
       "p": "f iy n eh"
     },
     {
+      "w": "finner",
+      "p": "f iy n eh dx"
+    },
+    {
       "w": "finnes",
       "p": "f iy n eh s"
     },
@@ -4133,6 +4149,10 @@
       "p": "f ao dx l aa t eh"
     },
     {
+      "w": "forlatt",
+      "p": "f ao dx l aa t"
+    },
+    {
       "w": "form",
       "p": "f ao dx m"
     },
@@ -4207,6 +4227,10 @@
     {
       "w": "f\u00e6rre",
       "p": "f ae dx eh"
+    },
+    {
+      "w": "f\u00f8r",
+      "p": "f er dx"
     },
     {
       "w": "f\u00f8rste",
@@ -4401,8 +4425,12 @@
       "p": "h uh d eh"
     },
     {
+      "w": "hold",
+      "p": "hh ao l"
+    },
+    {
       "w": "holde",
-      "p": "h ao l eh"
+      "p": "hh ao l eh"
     },
     {
       "w": "holdt",
@@ -4462,7 +4490,7 @@
     },
     {
       "w": "h\u00e5nd",
-      "p": "h ao n"
+      "p": "hh ao n"
     },
     {
       "w": "h\u00e5nden",
@@ -4513,6 +4541,10 @@
       "p": "iy n eh"
     },
     {
+      "w": "inntil",
+      "p": "iy n t iy l"
+    },
+    {
       "w": "j",
       "p": "y eh"
     },
@@ -4527,6 +4559,10 @@
     {
       "w": "jo",
       "p": "y uh"
+    },
+    {
+      "w": "jord",
+      "p": "y uh dx"
     },
     {
       "w": "k",
@@ -4585,8 +4621,16 @@
       "p": "k ao dx t"
     },
     {
+      "w": "krom",
+      "p": "k dx uh m"
+    },
+    {
       "w": "kroner",
       "p": "k dx uh n eh dx"
+    },
+    {
+      "w": "kun",
+      "p": "k uw n"
     },
     {
       "w": "kunne",
@@ -4941,6 +4985,10 @@
       "p": "ao p eh"
     },
     {
+      "w": "oppover",
+      "p": "ao p ao v eh dx"
+    },
+    {
       "w": "ord",
       "p": "uh dx"
     },
@@ -5041,6 +5089,10 @@
       "p": "s aa m t iy d iy"
     },
     {
+      "w": "sang",
+      "p": "s aa ng"
+    },
+    {
       "w": "satt",
       "p": "s aa t"
     },
@@ -5121,12 +5173,20 @@
       "p": "s k aa l"
     },
     {
+      "w": "sko",
+      "p": "s k uh"
+    },
+    {
       "w": "skolen",
       "p": "s k uh l eh n"
     },
     {
       "w": "skulle",
       "p": "s k uw l eh"
+    },
+    {
+      "w": "sky",
+      "p": "sh iy"
     },
     {
       "w": "slags",
@@ -5261,6 +5321,10 @@
       "p": "s ao"
     },
     {
+      "w": "s\u00e5rt",
+      "p": "s ao t"
+    },
+    {
       "w": "s\u00e6rlig",
       "p": "s ae l iy"
     },
@@ -5337,6 +5401,10 @@
       "p": "t iy l eh g"
     },
     {
+      "w": "tilst\u00e5",
+      "p": "t iy l s t ao"
+    },
+    {
       "w": "ting",
       "p": "t iy ng"
     },
@@ -5367,6 +5435,10 @@
     {
       "w": "tror",
       "p": "t dx uh dx"
+    },
+    {
+      "w": "tunge",
+      "p": "t uh ng eh"
     },
     {
       "w": "u",
@@ -5423,6 +5495,10 @@
     {
       "w": "vel",
       "p": "v eh l"
+    },
+    {
+      "w": "venter",
+      "p": "v eh n t eh dx"
     },
     {
       "w": "ventet",
@@ -5499,6 +5575,10 @@
     {
       "w": "v\u00e6re",
       "p": "v ae dx eh"
+    },
+    {
+      "w": "v\u00e6rende",
+      "p": "v ae dx eh n eh"
     },
     {
       "w": "v\u00e6rt",
