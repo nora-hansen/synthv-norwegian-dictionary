@@ -1,6 +1,6 @@
 # Norwegian dictionary for Synthesizer V
   
-**Merk at denne ordboken er langt fra fullstendig, og så langt kun består av ofte brukte ord, ord jeg hard brukt selv og som jeg ser for meg å få bruk for. Jeg legger stadig til nye ord!**
+**Merk at denne ordboken er langt fra fullstendig, og så langt kun består av ofte brukte ord, ord jeg har brukt selv og som jeg ser for meg å få bruk for. Jeg legger stadig til nye ord!**
   
 Denne ordlisten bruker arpabet og må brukes med engelske stemmer, eller ved cross-language synthesis. For å bruke ordlisten med for eksempel en stemme med japansk morsmål, må filen legges i en "japanese-romaji" mappe. Merk at stemmen likevel må settes til engelsk, og at listen ikke kan brukes med japanske stemmer som ikke støtter engelsk synging.  
 Det er fortsatt store mangler i ordlisten, norsk har så mange ord :.). Merk og at alle ordene er lagt til individuelle, altså lyder som endres basert på plassering som "er" + "så" = "esjå" ikke er tatt hensyn til (jeg vet ikke hvordan!), dette kan du endre manuelt.  
