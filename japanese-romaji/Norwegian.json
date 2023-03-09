@@ -25,6 +25,18 @@
       "p": "s eh d eh"
     },
     {
+      "w": "CDen",
+      "p": "s eh d eh eh n"
+    },
+    {
+      "w": "CDene",
+      "p": "s eh d eh eh n eh"
+    },
+    {
+      "w": "CDer",
+      "p": "s eh d eh eh dx"
+    },
+    {
       "w": "a",
       "p": "aa"
     },
@@ -33,12 +45,28 @@
       "p": "aa b uh n eh m aa ng"
     },
     {
+      "w": "abonnementene",
+      "p": "aa b uh n eh m aa ng eh n eh"
+    },
+    {
       "w": "abonnementer",
       "p": "aa b uh n eh m aa ng eh dx"
     },
     {
+      "w": "abonnementet",
+      "p": "aa b uh n eh m aa ng eh t"
+    },
+    {
       "w": "abonnent",
       "p": "aa b uh n eh n t"
+    },
+    {
+      "w": "abonnenten",
+      "p": "aa b uh n eh n t eh n"
+    },
+    {
+      "w": "abonnentene",
+      "p": "aa b uh n eh n t eh n eh"
     },
     {
       "w": "abonnenter",
@@ -49,8 +77,16 @@
       "p": "aa b uh n eh dx eh"
     },
     {
+      "w": "abonnerende",
+      "p": "aa b uh n eh dx eh n eh"
+    },
+    {
       "w": "abonnerer",
       "p": "aa b uh n eh dx eh dx"
+    },
+    {
+      "w": "abonneres",
+      "p": "aa b uh n eh dx eh s"
     },
     {
       "w": "abonnert",
@@ -129,8 +165,16 @@
       "p": "aa d l iy d eh"
     },
     {
+      "w": "adlydende",
+      "p": "aa d l iy d eh n eh"
+    },
+    {
       "w": "adlyder",
       "p": "aa d l iy d eh dx"
+    },
+    {
+      "w": "adlydes",
+      "p": "aa d l iy d eh s"
     },
     {
       "w": "adlydet",
@@ -161,8 +205,16 @@
       "p": "aa d sh iy l eh"
     },
     {
+      "w": "adskillende",
+      "p": "aa d sh iy l eh n eh"
+    },
+    {
       "w": "adskiller",
       "p": "aa d sh iy l eh dx"
+    },
+    {
+      "w": "adskilles",
+      "p": "aa d sh iy l eh s"
     },
     {
       "w": "adskilt",
@@ -177,8 +229,16 @@
       "p": "aa d v aa dx eh"
     },
     {
+      "w": "advarende",
+      "p": "aa d v aa dx eh n eh"
+    },
+    {
       "w": "advarer",
       "p": "aa d v aa dx eh dx"
+    },
+    {
+      "w": "advares",
+      "p": "aa d v aa dx eh s"
     },
     {
       "w": "advarsel",
@@ -197,6 +257,14 @@
       "p": "aa d v ae dx b"
     },
     {
+      "w": "adverbene",
+      "p": "aa d v ae dx b eh n eh"
+    },
+    {
+      "w": "adverbet",
+      "p": "aa d v ae dx b eh t"
+    },
+    {
       "w": "aerodynamikk",
       "p": "aa eh dx uh d iy n aa m iy k"
     },
@@ -211,6 +279,10 @@
     {
       "w": "affeksjonene",
       "p": "aa f f eh k sh uh n eh n eh"
+    },
+    {
+      "w": "affeksjoner",
+      "p": "aa f f eh k sh uh n eh dx"
     },
     {
       "w": "affekt",
@@ -357,8 +429,16 @@
       "p": "aa k eh"
     },
     {
+      "w": "akende",
+      "p": "aa k eh n eh"
+    },
+    {
       "w": "aker",
       "p": "aa k eh dx"
+    },
+    {
+      "w": "akes",
+      "p": "aa k eh s"
     },
     {
       "w": "aket",
@@ -445,6 +525,14 @@
       "p": "aa k s eh s eh dx eh"
     },
     {
+      "w": "aksessert",
+      "p": "aa k s eh s eh dx t"
+    },
+    {
+      "w": "aksesserte",
+      "p": "aa k s eh s eh dx t eh"
+    },
+    {
       "w": "aksjon",
       "p": "aa k sh uh n"
     },
@@ -493,12 +581,32 @@
       "p": "aa k t iy v eh dx eh"
     },
     {
+      "w": "aktiverende",
+      "p": "aa k t iy v eh dx eh n eh"
+    },
+    {
       "w": "aktiverer",
       "p": "aa k t iy v eh dx eh dx"
     },
     {
+      "w": "aktiveres",
+      "p": "aa k t iy v eh dx eh s"
+    },
+    {
       "w": "aktivering",
       "p": "aa k t iy v eh dx iy ng"
+    },
+    {
+      "w": "aktiveringen",
+      "p": "aa k t iy v eh dx iy ng eh n"
+    },
+    {
+      "w": "aktiveringene",
+      "p": "aa k t iy v eh dx iy ng eh n eh"
+    },
+    {
+      "w": "aktiveringer",
+      "p": "aa k t iy v eh dx iy ng eh dx"
     },
     {
       "w": "aktivert",
@@ -1657,6 +1765,10 @@
       "p": "b eh y ih n eh"
     },
     {
+      "w": "begynte",
+      "p": "b eh y iy n t eh"
+    },
+    {
       "w": "beg\u00e5",
       "p": "b eh g ao"
     },
@@ -1699,6 +1811,10 @@
     {
       "w": "beklagelse",
       "p": "b eh k l aa g eh l s eh"
+    },
+    {
+      "w": "beklager",
+      "p": "b eh k l aa g eh dx"
     },
     {
       "w": "bekrefte",
@@ -1937,8 +2053,16 @@
       "p": "b iy l d eh"
     },
     {
+      "w": "bildene",
+      "p": "b iy l d eh n eh"
+    },
+    {
       "w": "bilder",
       "p": "b iy l d eh dx"
+    },
+    {
+      "w": "bildet",
+      "p": "b iy l d eh t"
     },
     {
       "w": "billig",
@@ -1977,8 +2101,24 @@
       "p": "b l aa n eh t"
     },
     {
+      "w": "blendet",
+      "p": "b l eh n eh t"
+    },
+    {
+      "w": "blikk",
+      "p": "b l iy k"
+    },
+    {
+      "w": "blikket",
+      "p": "b l iy k eh t"
+    },
+    {
       "w": "blir",
       "p": "b l iy dx"
+    },
+    {
+      "w": "bl\u00e5",
+      "p": "b l ao"
     },
     {
       "w": "bo",
@@ -2461,6 +2601,10 @@
       "p": "d aa n s eh"
     },
     {
+      "w": "dansende",
+      "p": "d aa n s eh n eh"
+    },
+    {
       "w": "danser",
       "p": "d aa n s eh dx"
     },
@@ -2651,6 +2795,10 @@
     {
       "w": "det",
       "p": "d eh"
+    },
+    {
+      "w": "dette",
+      "p": "d eh t eh"
     },
     {
       "w": "di",
@@ -2973,6 +3121,22 @@
       "p": "d dx ao p eh"
     },
     {
+      "w": "dr\u00f8m",
+      "p": "d dx er m"
+    },
+    {
+      "w": "dr\u00f8mmen",
+      "p": "d dx er m eh n"
+    },
+    {
+      "w": "dr\u00f8mmene",
+      "p": "d dx er m eh n eh"
+    },
+    {
+      "w": "dr\u00f8mmer",
+      "p": "d dx er m eh dx"
+    },
+    {
       "w": "du",
       "p": "d uw"
     },
@@ -3067,6 +3231,10 @@
     {
       "w": "dypere",
       "p": "d iy p eh dx eh"
+    },
+    {
+      "w": "dypt",
+      "p": "d iy p t"
     },
     {
       "w": "dyr",
@@ -3447,6 +3615,10 @@
     {
       "w": "emne",
       "p": "eh m n eh"
+    },
+    {
+      "w": "emosjon",
+      "p": "eh m uh sh uh n"
     },
     {
       "w": "empire",
@@ -3969,6 +4141,10 @@
       "p": "f y eh s"
     },
     {
+      "w": "fjeset",
+      "p": "f j eh s eh t"
+    },
+    {
       "w": "fjor",
       "p": "f y uh dx"
     },
@@ -4225,12 +4401,28 @@
       "p": "f ao t iy d"
     },
     {
+      "w": "fot",
+      "p": "f uh t"
+    },
+    {
+      "w": "foten",
+      "p": "f uh t eh n"
+    },
+    {
       "w": "fra",
       "p": "f dx aa"
     },
     {
+      "w": "fremdeles",
+      "p": "f dx eh m d eh l eh s"
+    },
+    {
       "w": "fri",
       "p": "f dx iy"
+    },
+    {
+      "w": "frihet",
+      "p": "f dx iy hh eh t"
     },
     {
       "w": "f\u00e5",
@@ -4253,6 +4445,10 @@
       "p": "f er l eh"
     },
     {
+      "w": "f\u00f8lelsen",
+      "p": "f er l eh l s eh n"
+    },
+    {
       "w": "f\u00f8ler",
       "p": "f er l eh dx"
     },
@@ -4271,6 +4467,14 @@
     {
       "w": "f\u00f8rste",
       "p": "f er sh t eh"
+    },
+    {
+      "w": "f\u00f8ttene",
+      "p": "f er t eh n eh"
+    },
+    {
+      "w": "f\u00f8tter",
+      "p": "f er t eh dx"
     },
     {
       "w": "g",
@@ -4901,8 +5105,28 @@
       "p": "g ao t"
     },
     {
+      "w": "godta",
+      "p": "g uh t aa"
+    },
+    {
+      "w": "godtar",
+      "p": "g uh t aa dx"
+    },
+    {
+      "w": "godtatt",
+      "p": "g uh t aa t"
+    },
+    {
+      "w": "godtok",
+      "p": "g uh t uh k"
+    },
+    {
       "w": "grad",
-      "p": "g dx aa d"
+      "p": "g r aa d"
+    },
+    {
+      "w": "gradvis",
+      "p": "g dx aa d v iy s"
     },
     {
       "w": "grafikk",
@@ -4919,6 +5143,14 @@
     {
       "w": "grave",
       "p": "g dx aa v eh"
+    },
+    {
+      "w": "gravsted",
+      "p": "g dx aa v s t eh d"
+    },
+    {
+      "w": "gre",
+      "p": "g dx eh"
     },
     {
       "w": "grei",
@@ -4945,12 +5177,28 @@
       "p": "g dx eh s eh t"
     },
     {
+      "w": "grille",
+      "p": "g dx iy l eh"
+    },
+    {
+      "w": "griller",
+      "p": "g dx iy l eh dx"
+    },
+    {
       "w": "grim",
       "p": "g dx iy m"
     },
     {
       "w": "grin",
       "p": "g dx iy n"
+    },
+    {
+      "w": "gripe",
+      "p": "g dx iy p eh"
+    },
+    {
+      "w": "griper",
+      "p": "g dx iy p eh dx"
     },
     {
       "w": "gris",
@@ -4963,6 +5211,10 @@
     {
       "w": "grov",
       "p": "g dx ao v"
+    },
+    {
+      "w": "grove",
+      "p": "g dx ao v eh"
     },
     {
       "w": "grovt",
@@ -5027,6 +5279,14 @@
     {
       "w": "gr\u00e5dig",
       "p": "g dx ao d iy"
+    },
+    {
+      "w": "gr\u00e5dige",
+      "p": "g dx ao d iy eh"
+    },
+    {
+      "w": "gr\u00e5e",
+      "p": "g dx ao ah"
     },
     {
       "w": "gr\u00e5t",
@@ -5135,6 +5395,22 @@
     {
       "w": "g\u00e5tt",
       "p": "g ao t"
+    },
+    {
+      "w": "g\u00f8y",
+      "p": "g er y"
+    },
+    {
+      "w": "g\u00f8yal",
+      "p": "g er y aa l"
+    },
+    {
+      "w": "g\u00f8yale",
+      "p": "g er y aa l eh"
+    },
+    {
+      "w": "g\u00f8ye",
+      "p": "g er y eh"
     },
     {
       "w": "h",
@@ -5322,7 +5598,7 @@
     },
     {
       "w": "havet",
-      "p": "hh aa v eh t"
+      "p": "hh aa v eh"
     },
     {
       "w": "havne",
@@ -5471,6 +5747,10 @@
     {
       "w": "hendene",
       "p": "hh eh n eh n eh"
+    },
+    {
+      "w": "hender",
+      "p": "hh eh n eh dx"
     },
     {
       "w": "hendig",
@@ -5821,6 +6101,10 @@
       "p": "hh uh v eh d"
     },
     {
+      "w": "hull",
+      "p": "hh uw l"
+    },
+    {
       "w": "hun",
       "p": "hh uw n"
     },
@@ -5965,20 +6249,244 @@
       "p": "iy"
     },
     {
+      "w": "iblant",
+      "p": "iy b l aa n t"
+    },
+    {
+      "w": "ide",
+      "p": "iy d eh"
+    },
+    {
+      "w": "ideen",
+      "p": "iy d eh eh n"
+    },
+    {
+      "w": "ideene",
+      "p": "iy d eh eh n eh"
+    },
+    {
+      "w": "ideer",
+      "p": "iy d eh eh dx"
+    },
+    {
+      "w": "identifisere",
+      "p": "iy d eh n t iy f iy s eh dx eh"
+    },
+    {
+      "w": "identifiserende",
+      "p": "iy d eh n t iy f iy s eh dx eh n eh"
+    },
+    {
+      "w": "identifiserer",
+      "p": "iy d eh n t iy f iy s eh dx eh dx"
+    },
+    {
+      "w": "identifiseres",
+      "p": "iy d eh n t iy f iy s eh dx eh s"
+    },
+    {
+      "w": "identifisert",
+      "p": "iy d eh n t iy f iy s eh dx t"
+    },
+    {
+      "w": "identifiserte",
+      "p": "iy d eh n t iy f iy s eh dx t eh"
+    },
+    {
+      "w": "identitet",
+      "p": "iy d eh n t iy t eh t"
+    },
+    {
+      "w": "ideologi",
+      "p": "iy d eh uh l uh g iy"
+    },
+    {
+      "w": "idet",
+      "p": "iy d eh"
+    },
+    {
+      "w": "idyll",
+      "p": "iy d iy l"
+    },
+    {
+      "w": "idyllisk",
+      "p": "iy d iy l iy s k"
+    },
+    {
+      "w": "ifjor",
+      "p": "iy f y uh dx"
+    },
+    {
+      "w": "ifra",
+      "p": "iy f dx ah"
+    },
+    {
+      "w": "if\u00f8re",
+      "p": "iy f er dx eh"
+    },
+    {
+      "w": "igang",
+      "p": "iy g aa ng"
+    },
+    {
       "w": "igjen",
       "p": "iy y eh n"
+    },
+    {
+      "w": "ignorant",
+      "p": "iy g n uh dx aa n t"
+    },
+    {
+      "w": "ignorante",
+      "p": "iy g n uh dx aa n t eh"
+    },
+    {
+      "w": "ignorere",
+      "p": "iy g n uh dx eh dx eh"
+    },
+    {
+      "w": "ignorerer",
+      "p": "iy g n uh dx eh dx eh dx"
+    },
+    {
+      "w": "ignoreres",
+      "p": "iy g n uh dx eh dx eh s"
+    },
+    {
+      "w": "ignorert",
+      "p": "iy g n uh dx eh dx t"
+    },
+    {
+      "w": "ignorerte",
+      "p": "iy g n uh dx eh dx t eh"
+    },
+    {
+      "w": "ig\u00e5r",
+      "p": "iy g ao dx"
+    },
+    {
+      "w": "iherdig",
+      "p": "iy h ae dx d iy"
     },
     {
       "w": "ikke",
       "p": "iy k eh"
     },
     {
+      "w": "ikon",
+      "p": "iy k uh n"
+    },
+    {
+      "w": "ild",
+      "p": "iy l"
+    },
+    {
+      "w": "ilden",
+      "p": "iy l eh n"
+    },
+    {
+      "w": "ildkule",
+      "p": "iy l k uw l eh"
+    },
+    {
+      "w": "ildkulen",
+      "p": "iy l k uw l eh n"
+    },
+    {
+      "w": "ildkulene",
+      "p": "iy l k uw l eh n eh"
+    },
+    {
+      "w": "ildkuler",
+      "p": "iy l k uw l eh dx"
+    },
+    {
+      "w": "ildsted",
+      "p": "iy l s t eh"
+    },
+    {
+      "w": "ille",
+      "p": "iy l eh"
+    },
+    {
+      "w": "illegal",
+      "p": "iy l eh g aa l"
+    },
+    {
+      "w": "illegale",
+      "p": "iy l eh g aa l eh"
+    },
+    {
+      "w": "illsint",
+      "p": "iy l s iy n t"
+    },
+    {
+      "w": "illsinte",
+      "p": "iy l s iy n t eh"
+    },
+    {
+      "w": "illusjon",
+      "p": "iy l uw sh uh n"
+    },
+    {
+      "w": "illusjonen",
+      "p": "iy l uw sh uh n eh n"
+    },
+    {
+      "w": "illusjonene",
+      "p": "iy l uw sh uh n eh n eh"
+    },
+    {
+      "w": "illusjoner",
+      "p": "iy l uw sh uh n eh dx"
+    },
+    {
+      "w": "illustrasjon",
+      "p": "iy l uw s t r aa sh uh n"
+    },
+    {
       "w": "imidlertid",
       "p": "iy m iy d l eh dx t iy d"
     },
     {
+      "w": "immun",
+      "p": "iy m uw n"
+    },
+    {
+      "w": "immune",
+      "p": "iy m uw n eh"
+    },
+    {
       "w": "imot",
       "p": "iy m uh t"
+    },
+    {
+      "w": "impuls",
+      "p": "iy m p uw l s"
+    },
+    {
+      "w": "inaktiv",
+      "p": "iy n aa k t iy v"
+    },
+    {
+      "w": "inaktive",
+      "p": "iy n aa k t iy v eh"
+    },
+    {
+      "w": "indirekte",
+      "p": "iy n d iy dx eh k t eh"
+    },
+    {
+      "w": "individ",
+      "p": "iy n d iy v iy d"
+    },
+    {
+      "w": "indre",
+      "p": "iy n d dx eh"
+    },
+    {
+      "w": "infisert",
+      "p": "iy n f iy s eh dx t"
     },
     {
       "w": "ingen",
@@ -6005,6 +6513,86 @@
       "p": "iy n t iy l"
     },
     {
+      "w": "irrelevans",
+      "p": "iy dx eh l eh v aa n s"
+    },
+    {
+      "w": "irrelevant",
+      "p": "iy dx eh l eh v aa n t"
+    },
+    {
+      "w": "irrelevante",
+      "p": "iy dx eh l eh v aa n t eh"
+    },
+    {
+      "w": "irritere",
+      "p": "iy dx iy t eh dx eh"
+    },
+    {
+      "w": "irriterer",
+      "p": "iy dx iy t eh dx eh dx"
+    },
+    {
+      "w": "is",
+      "p": "iy s"
+    },
+    {
+      "w": "isbit",
+      "p": "iy s b iy t"
+    },
+    {
+      "w": "isbre",
+      "p": "iy s dx eh"
+    },
+    {
+      "w": "isete",
+      "p": "iy s eh t eh"
+    },
+    {
+      "w": "isfjell",
+      "p": "iy s f y eh l"
+    },
+    {
+      "w": "iskald",
+      "p": "iy s k ah l"
+    },
+    {
+      "w": "iskalde",
+      "p": "iy s k ah l eh"
+    },
+    {
+      "w": "iskaldt",
+      "p": "iy s k ah l t"
+    },
+    {
+      "w": "isolere",
+      "p": "iy s uh l eh dx eh"
+    },
+    {
+      "w": "isolerer",
+      "p": "iy s uh l eh dx eh dx"
+    },
+    {
+      "w": "isolert",
+      "p": "iy s uh l eh dx t"
+    },
+    {
+      "w": "isolerte",
+      "p": "iy s uh l eh dx t eh"
+    },
+    {
+      "w": "istid",
+      "p": "iy s t iy"
+    },
+    {
+      "w": "isvann",
+      "p": "iy s v aa n"
+    },
+    {
+      "w": "ivrig",
+      "p": "iy v dx iy"
+    },
+    {
       "w": "j",
       "p": "y eh"
     },
@@ -6013,8 +6601,48 @@
       "p": "y aa"
     },
     {
+      "w": "jada",
+      "p": "y aa d aa"
+    },
+    {
+      "w": "jag",
+      "p": "y aa g"
+    },
+    {
+      "w": "jage",
+      "p": "y aa g eh"
+    },
+    {
+      "w": "jager",
+      "p": "y aa g eh dx"
+    },
+    {
+      "w": "jaget",
+      "p": "y aa g eh t"
+    },
+    {
+      "w": "jakt",
+      "p": "y aa k t"
+    },
+    {
       "w": "jeg",
       "p": "y ae y"
+    },
+    {
+      "w": "jenta",
+      "p": "y eh n t aa"
+    },
+    {
+      "w": "jente",
+      "p": "y eh n t eh"
+    },
+    {
+      "w": "jentene",
+      "p": "y eh n t eh n eh"
+    },
+    {
+      "w": "jenter",
+      "p": "y eh n t eh dx"
     },
     {
       "w": "jo",
@@ -6029,6 +6657,18 @@
       "p": "k ao"
     },
     {
+      "w": "k aa l eh t",
+      "p": "k ey ey ey eh l eh t iy"
+    },
+    {
+      "w": "kaller",
+      "p": "k aa l eh dx"
+    },
+    {
+      "w": "kallet",
+      "p": "k aa l eh t"
+    },
+    {
       "w": "kampen",
       "p": "k aa m p eh n"
     },
@@ -6039,6 +6679,10 @@
     {
       "w": "kanskje",
       "p": "k aa n sh eh"
+    },
+    {
+      "w": "kast",
+      "p": "k aa s t"
     },
     {
       "w": "kjenner",
@@ -6059,6 +6703,10 @@
     {
       "w": "klart",
       "p": "k l aa dx t"
+    },
+    {
+      "w": "kl\u00f8",
+      "p": "k l er"
     },
     {
       "w": "kode",
@@ -6149,6 +6797,14 @@
       "p": "l aa ng t"
     },
     {
+      "w": "late",
+      "p": "l aa t eh"
+    },
+    {
+      "w": "later",
+      "p": "l aa t eh dx"
+    },
+    {
       "w": "legge",
       "p": "l eh g eh"
     },
@@ -6205,12 +6861,20 @@
       "p": "l uh t"
     },
     {
+      "w": "lov",
+      "p": "l ao v"
+    },
+    {
       "w": "luft",
       "p": "l uw f t"
     },
     {
       "w": "lys",
       "p": "l iy s"
+    },
+    {
+      "w": "lyset",
+      "p": "l iy s eh t"
     },
     {
       "w": "l\u00e5",
@@ -6243,6 +6907,22 @@
     {
       "w": "mannen",
       "p": "m aa n eh n"
+    },
+    {
+      "w": "maske",
+      "p": "m aa s k eh"
+    },
+    {
+      "w": "masken",
+      "p": "m aa s k eh n"
+    },
+    {
+      "w": "maskene",
+      "p": "m aa s k eh n eh"
+    },
+    {
+      "w": "masker",
+      "p": "m aa s k eh dx"
     },
     {
       "w": "med",
@@ -6329,6 +7009,10 @@
       "p": "m iy n uw t"
     },
     {
+      "w": "mistet",
+      "p": "m iy s t eh t"
+    },
+    {
       "w": "mitt",
       "p": "m iy t"
     },
@@ -6339,6 +7023,10 @@
     {
       "w": "moren",
       "p": "m uh dx eh n"
+    },
+    {
+      "w": "morgen",
+      "p": "m ao dx g eh n"
     },
     {
       "w": "mot",
@@ -6373,12 +7061,32 @@
       "p": "m ao t eh"
     },
     {
+      "w": "m\u00f8rk",
+      "p": "m er dx k"
+    },
+    {
+      "w": "m\u00f8rke",
+      "p": "m er dx k eh"
+    },
+    {
+      "w": "m\u00f8rket",
+      "p": "m er dx k eh"
+    },
+    {
       "w": "m\u00f8te",
       "p": "m er t eh"
     },
     {
       "w": "n",
       "p": "eh n"
+    },
+    {
+      "w": "natt",
+      "p": "n aa t"
+    },
+    {
+      "w": "natten",
+      "p": "n aa t eh n"
     },
     {
       "w": "nattens",
@@ -6409,8 +7117,20 @@
       "p": "n eh s t eh n"
     },
     {
+      "w": "nettene",
+      "p": "n eh t eh n eh"
+    },
+    {
+      "w": "netter",
+      "p": "n eh t eh dx"
+    },
+    {
       "w": "nettopp",
       "p": "n eh t ao p"
+    },
+    {
+      "w": "nisser",
+      "p": "n iy s eh dx"
     },
     {
       "w": "noe",
@@ -6517,6 +7237,10 @@
       "p": "p l uw t s eh l iy"
     },
     {
+      "w": "prikker",
+      "p": "p dx iy k eh dx"
+    },
+    {
       "w": "prosent",
       "p": "p dx uh s eh n t"
     },
@@ -6531,6 +7255,14 @@
     {
       "w": "r",
       "p": "eh dx"
+    },
+    {
+      "w": "redd",
+      "p": "r eh d"
+    },
+    {
+      "w": "redde",
+      "p": "r eh d eh"
     },
     {
       "w": "rekke",
@@ -6549,8 +7281,16 @@
       "p": "dx iy k t iy"
     },
     {
+      "w": "rose",
+      "p": "r uh s eh"
+    },
+    {
       "w": "rundt",
       "p": "dx uw n t"
+    },
+    {
+      "w": "r\u00f8d",
+      "p": "dx er"
     },
     {
       "w": "s",
@@ -6593,6 +7333,18 @@
       "p": "s aa t eh"
     },
     {
+      "w": "savne",
+      "p": "s aa v n eh"
+    },
+    {
+      "w": "savner",
+      "p": "s aa v n eh dx"
+    },
+    {
+      "w": "savnet",
+      "p": "s aa v n eh t"
+    },
+    {
       "w": "se",
       "p": "s eh"
     },
@@ -6603,6 +7355,10 @@
     {
       "w": "seier",
       "p": "s ae y eh dx"
+    },
+    {
+      "w": "sekund",
+      "p": "s eh k uw n"
     },
     {
       "w": "selv",
@@ -6669,8 +7425,32 @@
       "p": "s k aa l"
     },
     {
+      "w": "skarp",
+      "p": "s k aa dx p"
+    },
+    {
+      "w": "skjedde",
+      "p": "sh eh d eh"
+    },
+    {
+      "w": "skjer",
+      "p": "sh eh dx"
+    },
+    {
       "w": "skolen",
       "p": "s k uh l eh n"
+    },
+    {
+      "w": "skrek",
+      "p": "s k dx eh k"
+    },
+    {
+      "w": "skrike",
+      "p": "s k dx iy k eh"
+    },
+    {
+      "w": "skriker",
+      "p": "s k dx iy k eh dx"
     },
     {
       "w": "skulle",
@@ -6683,6 +7463,10 @@
     {
       "w": "slags",
       "p": "sh l aa g s"
+    },
+    {
+      "w": "slapp",
+      "p": "sh l aa p"
     },
     {
       "w": "slik",
@@ -6699,6 +7483,22 @@
     {
       "w": "slipp",
       "p": "sh l iy p"
+    },
+    {
+      "w": "slippe",
+      "p": "sh l iy p eh"
+    },
+    {
+      "w": "slippende",
+      "p": "sh l iy p eh n eh"
+    },
+    {
+      "w": "slipper",
+      "p": "sh l iy p eh dx"
+    },
+    {
+      "w": "slippes",
+      "p": "sh l iy p eh s"
     },
     {
       "w": "slo",
@@ -6725,6 +7525,18 @@
       "p": "sh l ao t"
     },
     {
+      "w": "smil",
+      "p": "s m iy l"
+    },
+    {
+      "w": "smilene",
+      "p": "s m iy l eh n eh"
+    },
+    {
+      "w": "smilet",
+      "p": "s m iy l eh "
+    },
+    {
       "w": "sm\u00e5",
       "p": "s m ao"
     },
@@ -6743,6 +7555,10 @@
     {
       "w": "som",
       "p": "s ao m"
+    },
+    {
+      "w": "speil",
+      "p": "s p ae y l"
     },
     {
       "w": "spille",
@@ -6785,6 +7601,22 @@
       "p": "s t eh d eh t"
     },
     {
+      "w": "stemme",
+      "p": "s t eh m eh"
+    },
+    {
+      "w": "stemmen",
+      "p": "s t eh m eh n"
+    },
+    {
+      "w": "stemmene",
+      "p": "s t eh m eh n eh"
+    },
+    {
+      "w": "stemmer",
+      "p": "s t eh m eh dx"
+    },
+    {
       "w": "sterkt",
       "p": "s t ae dx k t"
     },
@@ -6817,8 +7649,16 @@
       "p": "s t uh dx t"
     },
     {
+      "w": "str\u00e5le",
+      "p": "s t dx ao l eh"
+    },
+    {
       "w": "stund",
       "p": "s t uw n"
+    },
+    {
+      "w": "stupe",
+      "p": "s t uw p eh"
     },
     {
       "w": "st\u00e5",
@@ -6839,6 +7679,22 @@
     {
       "w": "sunget",
       "p": "s uw ng eh t"
+    },
+    {
+      "w": "svak",
+      "p": "s v aa k"
+    },
+    {
+      "w": "svar",
+      "p": "s v aa dx"
+    },
+    {
+      "w": "svarene",
+      "p": "s v aa dx eh n eh"
+    },
+    {
+      "w": "svaret",
+      "p": "s v aa dx eh"
     },
     {
       "w": "svarte",
@@ -6893,6 +7749,10 @@
       "p": "t aa"
     },
     {
+      "w": "takker",
+      "p": "t aa k eh dx"
+    },
+    {
       "w": "tanker",
       "p": "t aa ng k eh dx"
     },
@@ -6903,6 +7763,10 @@
     {
       "w": "tatt",
       "p": "t aa t"
+    },
+    {
+      "w": "tenk",
+      "p": "t eh ng k"
     },
     {
       "w": "tenke",
@@ -6941,6 +7805,14 @@
       "p": "t iy d eh n eh"
     },
     {
+      "w": "tidene",
+      "p": "t iy d eh n eh"
+    },
+    {
+      "w": "tider",
+      "p": "t iy d eh dx"
+    },
+    {
       "w": "tidligere",
       "p": "t iy d l iy eh dx eh"
     },
@@ -6965,6 +7837,10 @@
       "p": "t iy ng"
     },
     {
+      "w": "tingene",
+      "p": "t iy ng eh n eh"
+    },
+    {
       "w": "to",
       "p": "t uh"
     },
@@ -6975,6 +7851,10 @@
     {
       "w": "tomme",
       "p": "t uh m eh"
+    },
+    {
+      "w": "tone",
+      "p": "t uh n eh"
     },
     {
       "w": "tre",
@@ -6997,6 +7877,18 @@
       "p": "t dx uh dx"
     },
     {
+      "w": "tr\u00e5",
+      "p": "t dx ao"
+    },
+    {
+      "w": "tr\u00e5r",
+      "p": "t dx ao dx"
+    },
+    {
+      "w": "tr\u00e5tt",
+      "p": "t dx ao t"
+    },
+    {
       "w": "tunge",
       "p": "t uw ng eh"
     },
@@ -7017,6 +7909,10 @@
       "p": "uh ng eh"
     },
     {
+      "w": "unnskyld",
+      "p": "uw n sh iy l"
+    },
+    {
       "w": "ut",
       "p": "uw t"
     },
@@ -7033,6 +7929,18 @@
       "p": "uw t eh n f ao dx"
     },
     {
+      "w": "valg",
+      "p": "v aa l g"
+    },
+    {
+      "w": "vann",
+      "p": "v aa n"
+    },
+    {
+      "w": "vannet",
+      "p": "v aa n eh t"
+    },
+    {
       "w": "vanskelig",
       "p": "v aa n s k eh l iy"
     },
@@ -7043,6 +7951,10 @@
     {
       "w": "var",
       "p": "v aa dx"
+    },
+    {
+      "w": "varm",
+      "p": "v aa dx m"
     },
     {
       "w": "ved",
@@ -7063,6 +7975,10 @@
     {
       "w": "vel",
       "p": "v eh l"
+    },
+    {
+      "w": "venner",
+      "p": "v eh n eh dx"
     },
     {
       "w": "ventet",
@@ -7123,6 +8039,10 @@
     {
       "w": "vite",
       "p": "v iy t eh"
+    },
+    {
+      "w": "vondt",
+      "p": "v uh n t"
     },
     {
       "w": "v\u00e5knet",
