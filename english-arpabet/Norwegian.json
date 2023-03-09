@@ -1309,6 +1309,10 @@
       "p": "aw t eh n t iy s k"
     },
     {
+      "w": "automatisering",
+      "p": "aw t uh m aa t iy s eh dx iy ng"
+    },
+    {
       "w": "automatisert",
       "p": "aw t uh m aa t iy s eh dx t"
     },
@@ -1587,6 +1591,10 @@
     {
       "w": "basere",
       "p": "b aa s eh dx eh"
+    },
+    {
+      "w": "basert",
+      "p": "b aa s eh dx t"
     },
     {
       "w": "bass",
@@ -1870,7 +1878,7 @@
     },
     {
       "w": "betydning",
-      "p": "b eh t ih d n iy ng"
+      "p": "b eh t iy d n iy ng"
     },
     {
       "w": "beundre",
@@ -1963,6 +1971,10 @@
     {
       "w": "bitt",
       "p": "b iy t"
+    },
+    {
+      "w": "blandet",
+      "p": "b l aa n eh t"
     },
     {
       "w": "blir",
@@ -2401,6 +2413,10 @@
       "p": "d aa g"
     },
     {
+      "w": "dagen",
+      "p": "d aa g eh n"
+    },
+    {
       "w": "dager",
       "p": "d aa g eh dx"
     },
@@ -2633,6 +2649,10 @@
       "p": "d ae dx m eh"
     },
     {
+      "w": "det",
+      "p": "d eh"
+    },
+    {
       "w": "di",
       "p": "d iy"
     },
@@ -2830,7 +2850,7 @@
     },
     {
       "w": "dra",
-      "p": "d dx a"
+      "p": "d dx aa"
     },
     {
       "w": "drag",
@@ -2875,6 +2895,10 @@
     {
       "w": "draperi",
       "p": "d dx aa p eh dx iy"
+    },
+    {
+      "w": "drar",
+      "p": "d dx aa dx"
     },
     {
       "w": "drastisk",
@@ -4141,6 +4165,10 @@
       "p": "f ao dx l aa t eh"
     },
     {
+      "w": "forlatt",
+      "p": "f ao dx l aa t"
+    },
+    {
       "w": "form",
       "p": "f ao dx m"
     },
@@ -4235,6 +4263,10 @@
     {
       "w": "f\u00f8lte",
       "p": "f er l t eh"
+    },
+    {
+      "w": "f\u00f8r",
+      "p": "f er dx"
     },
     {
       "w": "f\u00f8rste",
@@ -4551,6 +4583,10 @@
     {
       "w": "gjelder",
       "p": "y eh l eh dx"
+    },
+    {
+      "w": "gjemmer",
+      "p": "y eh m eh dx"
     },
     {
       "w": "gjemsel",
@@ -5734,7 +5770,7 @@
     },
     {
       "w": "holde",
-      "p": "h ao l eh"
+      "p": "hh ao l eh"
     },
     {
       "w": "holder",
@@ -5795,6 +5831,10 @@
     {
       "w": "huset",
       "p": "hh uw s eh"
+    },
+    {
+      "w": "husker",
+      "p": "hh uw s k eh dx"
     },
     {
       "w": "hva",
@@ -5917,6 +5957,10 @@
       "p": "hh er dx t eh"
     },
     {
+      "w": "h\u00f8ye",
+      "p": "hh er y eh"
+    },
+    {
       "w": "i",
       "p": "iy"
     },
@@ -5957,6 +6001,10 @@
       "p": "iy n iy"
     },
     {
+      "w": "inntil",
+      "p": "iy n t iy l"
+    },
+    {
       "w": "j",
       "p": "y eh"
     },
@@ -5971,6 +6019,10 @@
     {
       "w": "jo",
       "p": "y uh"
+    },
+    {
+      "w": "jord",
+      "p": "y uw dx"
     },
     {
       "w": "k",
@@ -6009,6 +6061,10 @@
       "p": "k l aa dx t"
     },
     {
+      "w": "kode",
+      "p": "k uh d eh"
+    },
+    {
       "w": "kom",
       "p": "k ao m"
     },
@@ -6029,8 +6085,16 @@
       "p": "k ao dx t"
     },
     {
+      "w": "krom",
+      "p": "k dx uw m"
+    },
+    {
       "w": "kroner",
       "p": "k dx uh n eh dx"
+    },
+    {
+      "w": "kun",
+      "p": "k uw n"
     },
     {
       "w": "kunne",
@@ -6139,6 +6203,14 @@
     {
       "w": "lot",
       "p": "l uh t"
+    },
+    {
+      "w": "luft",
+      "p": "l uw f t"
+    },
+    {
+      "w": "lys",
+      "p": "l iy s"
     },
     {
       "w": "l\u00e5",
@@ -6253,6 +6325,10 @@
       "p": "m iy n s t"
     },
     {
+      "w": "minutt",
+      "p": "m iy n uw t"
+    },
+    {
       "w": "mitt",
       "p": "m iy t"
     },
@@ -6305,8 +6381,20 @@
       "p": "eh n"
     },
     {
+      "w": "nattens",
+      "p": "n aa t eh n s"
+    },
+    {
+      "w": "naturlig",
+      "p": "n aa t uw dx l iy"
+    },
+    {
       "w": "ned",
       "p": "n eh"
+    },
+    {
+      "w": "nedenfra",
+      "p": "n eh d eh n f dx aa"
     },
     {
       "w": "nei",
@@ -6493,6 +6581,10 @@
       "p": "s aa m t iy d iy"
     },
     {
+      "w": "sang",
+      "p": "s aa ng"
+    },
+    {
       "w": "satt",
       "p": "s aa t"
     },
@@ -6569,6 +6661,10 @@
       "p": "s iy t eh dx"
     },
     {
+      "w": "sjeler",
+      "p": "sh eh l eh dx"
+    },
+    {
       "w": "skal",
       "p": "s k aa l"
     },
@@ -6579,6 +6675,10 @@
     {
       "w": "skulle",
       "p": "s k uw l eh"
+    },
+    {
+      "w": "sky",
+      "p": "sh iy"
     },
     {
       "w": "slags",
@@ -6693,6 +6793,10 @@
       "p": "s t iy l eh"
     },
     {
+      "w": "stjerner",
+      "p": "s t y ae n eh dx"
+    },
+    {
       "w": "sto",
       "p": "s t uh"
     },
@@ -6765,6 +6869,10 @@
       "p": "s ao"
     },
     {
+      "w": "s\u00e5rt",
+      "p": "s ao dx t"
+    },
+    {
       "w": "s\u00e6rlig",
       "p": "s ae l iy"
     },
@@ -6777,8 +6885,16 @@
       "p": "t eh"
     },
     {
+      "w": "t uw ng eh",
+      "p": "ty u N gy e hy"
+    },
+    {
       "w": "ta",
       "p": "t aa"
+    },
+    {
+      "w": "tanker",
+      "p": "t aa ng k eh dx"
     },
     {
       "w": "tar",
@@ -6841,6 +6957,10 @@
       "p": "t iy l eh g"
     },
     {
+      "w": "tilst\u00e5",
+      "p": "t iy l s t ao"
+    },
+    {
       "w": "ting",
       "p": "t iy ng"
     },
@@ -6851,6 +6971,10 @@
     {
       "w": "tok",
       "p": "t uh k"
+    },
+    {
+      "w": "tomme",
+      "p": "t uh m eh"
     },
     {
       "w": "tre",
@@ -6873,8 +6997,16 @@
       "p": "t dx uh dx"
     },
     {
+      "w": "tunge",
+      "p": "t uw ng eh"
+    },
+    {
       "w": "u",
       "p": "uw"
+    },
+    {
+      "w": "umulige",
+      "p": "uw m uw l iy eh"
     },
     {
       "w": "under",
@@ -6923,6 +7055,10 @@
     {
       "w": "veien",
       "p": "v ae y eh n"
+    },
+    {
+      "w": "vekk",
+      "p": "v eh k"
     },
     {
       "w": "vel",
@@ -6989,6 +7125,10 @@
       "p": "v iy t eh"
     },
     {
+      "w": "v\u00e5knet",
+      "p": "v ao k n eh t"
+    },
+    {
       "w": "v\u00e5r",
       "p": "v ao dx"
     },
@@ -7003,6 +7143,10 @@
     {
       "w": "v\u00e6re",
       "p": "v ae dx eh"
+    },
+    {
+      "w": "v\u00e6rende",
+      "p": "v ae dx eh n eh"
     },
     {
       "w": "v\u00e6rt",
